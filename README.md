@@ -29,7 +29,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/uej4shL/proj1.gif' title='Video Demo' width='' alt='Video Demo' />
+![](https://github.com/michelletwain/and101-project1-starter/blob/main/proj1.gif)
 
 GIF created with ScreenToGif
 
