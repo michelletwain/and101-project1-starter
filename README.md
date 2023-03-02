@@ -29,7 +29,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://imgur.com/uej4shL' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/uej4shL/proj1.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
